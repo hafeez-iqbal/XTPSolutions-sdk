@@ -1,0 +1,13 @@
+{
+  "name": "xtpsolutions/xtpsolutions-php",
+  "description": "XTPSolutions PHP SDK package",
+  "homepage": "https://test-portal.xtpsolutions.com",
+  "require": {
+    "php": ">=5.4.0",
+    "ext-curl": "*",
+    "ext-openssl": "*"
+  },
+  "autoload": {
+    "psr-4": { "XTPSolutions\\" : "lib/" }
+  }
+}
