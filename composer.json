@@ -1,6 +1,7 @@
 {
   "name": "xtpsolutions/xtpsolutions-php",
   "description": "XTPSolutions PHP SDK package",
+  "version": "2.6.3",
   "homepage": "https://test-portal.xtpsolutions.com",
   "require": {
     "php": ">=5.4.0",
